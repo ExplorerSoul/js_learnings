@@ -26,5 +26,5 @@ use this link to learn more about js datatypes
 */
 
 // object
-console.log(typeof nulll); // object
+console.log(typeof null); // object
 console.log(typeof undefined); // undefined
