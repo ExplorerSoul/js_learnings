@@ -9,7 +9,7 @@ let accountState; // only declared variable// using semicolon or not is same
 
 console.log(accountId);
 
-accountEmail = "smriti@amit.com"
+accountEmail = "ranjan@amit.com"
 accountPassword = "1472215"
 accountCity = "Guwahati"
 
