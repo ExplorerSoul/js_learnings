@@ -14,9 +14,9 @@
 // console.log(null>0);
 // console.log(null==0);
 // console.log(null<0);
-console.log(null>=0);   //true
+// console.log(null>=0);   //true
 
 // ===
-console.log("2" === 2); // === checks comparision wrt datatype
+// console.log("2" === 2); // === checks comparision wrt datatype
 
 
